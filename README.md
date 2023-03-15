@@ -1,4 +1,4 @@
-## CRM Database Project
+## Python/Mysql CRM Database Project
 This project is an implementation of a customer relationship management (CRM) database using Python and MySQL. It includes four tables for contacts, accounts, opportunities, and quotes, with relationships between them similar to those in Salesforce. The tables are prepopulated with thousands of records for analysis.
 
 ### Setup
@@ -44,32 +44,35 @@ Adding machine learning models to predict customer behavior and sales outcomes.
 
 
 
-Additional Questions
+## Additional Questions
 Contacts:
 
-How many contacts are associated with each account?
-What is the distribution of contacts by job title?
-Which contacts have the most opportunities associated with them?
-Which contacts have the most quotes associated with them?
-What is the average amount of opportunity and quote associated with each contact?
+- How many contacts are associated with each account?
+- What is the distribution of contacts by job title?
+- Which contacts have the most opportunities associated with them?
+- Which contacts have the most quotes associated with them?
+- What is the average amount of opportunity and quote associated with each contact?
+
 Accounts:
 
-Which accounts have the most opportunities associated with them?
-Which accounts have the most quotes associated with them?
-What is the distribution of accounts by industry?
-What is the average amount of opportunity and quote associated with each account?
-What is the average time from opportunity creation to close for each account?
+- Which accounts have the most opportunities associated with them?
+- Which accounts have the most quotes associated with them?
+- What is the distribution of accounts by industry?
+- What is the average amount of opportunity and quote associated with each account?
+- What is the average time from opportunity creation to close for each account?
+
 Opportunities:
 
-What is the distribution of opportunity amounts?
-What is the average time from opportunity creation to close?
-What is the win rate for each stage of the sales process?
-Which opportunities have the highest amount of quotes associated with them?
-What is the average number of contacts associated with each opportunity?
+- What is the distribution of opportunity amounts?
+- What is the average time from opportunity creation to close?
+- What is the win rate for each stage of the sales process?
+- Which opportunities have the highest amount of quotes associated with them?
+- What is the average number of contacts associated with each opportunity?
+
 Quotes:
 
-What is the distribution of quote amounts?
-Which opportunities have the highest amount of quotes associated with them?
-What is the average discount rate for each opportunity?
-What is the average time from quote creation to close?
-Which quotes were accepted and which were rejected?
+- What is the distribution of quote amounts?
+- Which opportunities have the highest amount of quotes associated with them?
+- What is the average discount rate for each opportunity?
+- What is the average time from quote creation to close?
+- Which quotes were accepted and which were rejected?
